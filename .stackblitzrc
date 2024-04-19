@@ -1,4 +1,0 @@
-{
-  "installDependencieqsdfs": false,
-  "startCommand": "time git for-each-ref --format='%(upstream:short)'"
-}
