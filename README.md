@@ -1,7 +1,7 @@
 # test-repoqsdf
 changeqsdf
 This is a test.
-qsdfqsdfqsdfqsdfqsdfqsd
+qsdf
 
 hello from ipad
 qsdf
